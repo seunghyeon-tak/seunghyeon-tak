@@ -35,8 +35,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seunghyeon-tak&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyeon-tak&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seunghyeon-tak&show_icons=true&theme=gruvbox" width="450px" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seunghyeon-tak&layout=compact&theme=gruvbox" width="400px" height="180px"/>
 </p>
 
 ---
