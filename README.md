@@ -10,7 +10,7 @@
 
 - 💻 4년차 백엔드 개발자, 현재는 기술 면접 & 개인 프로젝트 준비 중
 - 🌱 주력 스택: `Java`, `Spring Boot`, `MySQL`, `Redis`
-- 📝 꾸준히 학습하는 TIL: [Go to TIL Repository](https://github.com/seunghyeon-tak/TIL)
+- 📝 꾸준히 학습하는 TIL: [Go to TIL Repository](https://github.com/seunghyeon-tak/dev-til)
 
 ---
 
@@ -43,8 +43,8 @@
 
 ## 🗂 Repositories
 
-- 📘 [TIL](https://github.com/seunghyeon-tak/TIL) – 오늘 배운 내용 정리 모음
-- 🛠 [상품 가격 비교 플랫폼](https://github.com/seunghyeon-tak/price-compare) – 개인 프로젝트
+- 📘 [TIL](https://github.com/seunghyeon-tak/dev-til) – 오늘 배운 내용 정리 모음
+- 🛠 [상품 가격 비교 플랫폼](https://github.com/seunghyeon-tak/price-comparison) – 개인 프로젝트
 - ✨ [이력서 사이트](https://eggplant-mason-78f.notion.site/d11dfce4a30f4846bfe68a527f4a1ee3?pvs=4) – 포트폴리오 웹사이트
 
 ---
