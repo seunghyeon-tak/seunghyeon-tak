@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
 
-- 💻 4년차 백엔드 개발자, 현재는 기술 면접 & 개인 프로젝트 준비 중
-- 🌱 주력 스택: `Java`, `Spring Boot`, `MySQL`, `Redis`
+- 💻 4년차 백엔드 개발자
+- 🌱 주력 스택: `Java`, `Spring Boot`, `MySQL`, `Redis`, ...
 - 📝 꾸준히 학습하는 TIL: [Go to TIL Repository](https://github.com/seunghyeon-tak/dev-til)
 
 ---
