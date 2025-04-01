@@ -44,7 +44,9 @@
 ## 🗂 Repositories
 
 - 📘 [TIL](https://github.com/seunghyeon-tak/dev-til) – 오늘 배운 내용 정리 모음
-- 🛠 [상품 가격 비교 플랫폼](https://github.com/seunghyeon-tak/price-comparison) – 개인 프로젝트
+- 🛠 [상품 가격 비교 플랫폼] – 개인 프로젝트
+  - [백엔드](https://github.com/seunghyeon-tak/price-comparison)
+  - [프론트엔드](https://github.com/seunghyeon-tak/frontend-price-comparison)
 - ✨ [이력서 사이트](https://eggplant-mason-78f.notion.site/d11dfce4a30f4846bfe68a527f4a1ee3?pvs=4) – 포트폴리오 웹사이트
 
 ---
